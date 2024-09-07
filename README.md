@@ -83,11 +83,6 @@ Follow these instructions to set up and run the project on your local machine.
 
 Feel free to open issues or submit pull requests if you have suggestions for improvements or enhancements.
 
-
-## Contact
-
-For any inquiries or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
-
 ---
 
 Feel free to adjust the sections like "License," "Contact," or "Contributing" based on your specific needs and preferences.
