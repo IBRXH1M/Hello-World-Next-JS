@@ -1,7 +1,3 @@
-Certainly! Here’s a `README.md` template for your fancy "Hello World" Next.js project. This README explains the project, how it was created, and provides instructions for others to set it up and run it.
-
----
-
 # Fancy Hello World with Next.js
 
 Welcome to the "Fancy Hello World" project! This is a creative and interactive demonstration of a simple "Hello World" text using Next.js. It features glowing text effects, smooth animations, and hover interactions.
@@ -87,9 +83,6 @@ Follow these instructions to set up and run the project on your local machine.
 
 Feel free to open issues or submit pull requests if you have suggestions for improvements or enhancements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
